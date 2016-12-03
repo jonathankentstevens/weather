@@ -1,3 +1,3 @@
 # weather
 
-<img src="images/screenshot.png" />
+<img src="public/images/screenshot.png" />
